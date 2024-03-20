@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "exports": "./start.js",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "fast-xml-parser": "^4.3.5",
+    "fs": "^0.0.1-security",
+    "grammy": "^1.21.1",
+    "node": "^21.7.0",
+    "node-fetch": "^3.3.2"
+  }
+}
